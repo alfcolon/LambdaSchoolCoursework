@@ -19,7 +19,7 @@ Curriculum Outline
     * Auto Layout
     * Protocols
     * The Delegation Design Pattern
-  * iOS Fundamentals II
+  * iOS Fundamentals II
     * Tabbed Navigation and Multiple Storyboards
     * Basic Persistence
     * Alert Controllers, Picker Views, and Timers
@@ -30,12 +30,12 @@ Curriculum Outline
     * API Authentication with Account Signup and Login
     * GET and POST Requests with Basic Authentication
     * IntroToGCDAndClosures
-  * iOS User Interface
+  * iOS User Interface
     * Programmatic Constraints
     * Animation I - View Animations
     * View Drawing
     * iOS Custom Controls
-  * Core Data
+  * Core Data
     * Core Data I - Basics
     * Core Data II - Migration and Fetching
     * Core Data III - Sync Persistence
@@ -62,12 +62,12 @@ Curriculum Outline
     * iOS Audio
     * iOS Video
     * MapKit
-  * Objective-C Fundamentals
+  * Objective-C Fundamentals
     * Objective-C Fundamentals I
     * Objective-C Fundamentals II
     * Data Modeling with Objective-C
     * Networking in Objective-C
-  * Advanced Objective-C
+  * Advanced Objective-C
     * Swift and ObjC Interoperability
     * KVO/KVC
     * Memory Management
