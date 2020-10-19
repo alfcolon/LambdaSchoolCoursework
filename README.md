@@ -1,6 +1,7 @@
 Lambda School iOS Development Curriculum.
 ======
 So I took it upon myself to withdraw as an active student from Lambda School to finish out their coursework on my own schedule and goodness gracious what an undertaking that was! What is included here is an outline of the curriculum as well as guided projects and/or homework projects that I worked on on top of getting through the 2hr+ recorded lectures that accompanied each section.
+* I just went through the primary coursework. I'll save the secondary coursework for freetime/if I have to learn/practice any of that study material for work.
 
 <img src="https://66.media.tumblr.com/c7c232afac6ccd60fe091c8dacf9c46e/tumblr_ocg8rwNy2W1tknn62o1_500.gif" width="700" height="350"/>
 
